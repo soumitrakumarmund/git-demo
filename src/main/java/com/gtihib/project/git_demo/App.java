@@ -1,16 +1,11 @@
 package com.gtihib.project.git_demo;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
 	
 	public void addData(String data)
 	{
-		System.out.println("Data "+data);
-		if(data.equalsIgnoreCase("Test"))
+		if(data.equalsIgnoreCase(Constatnt.data))
 		{
 			System.out.println("Test Pass");
 		}
