@@ -7,7 +7,7 @@ public class App
 	{
 		if(data.equalsIgnoreCase(Constatnt.data))
 		{
-			System.out.println("Test Pass");
+			System.out.println("Test Pass-2");
 		}
 	}
 	
