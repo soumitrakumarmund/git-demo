@@ -10,6 +10,11 @@ public class App
 			System.out.println("Test Pass");
 		}
 	}
+	
+	punlic void newMeyhod()
+	{
+		System.out.println("New Method");	
+	}	
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
