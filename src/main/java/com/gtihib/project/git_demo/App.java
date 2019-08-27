@@ -11,7 +11,7 @@ public class App
 		}
 	}
 	
-	punlic void newMeyhod()
+	public void newMeyhod()
 	{
 		System.out.println("New Method");	
 	}	
